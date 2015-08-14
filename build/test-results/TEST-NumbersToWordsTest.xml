@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testsuite name="NumbersToWordsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2015-08-12T06:05:57" hostname="Julianas-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="test_for_130" classname="NumbersToWordsTest" time="0.004"/>
+  <testcase name="test_for_200" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="test_for_456" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="test_for_10" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="test_for_13" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="test_for_27" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="test_for_3" classname="NumbersToWordsTest" time="0.0"/>
+=======
+<testsuite name="NumbersToWordsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-08-12T00:01:01" hostname="epicodus-106.local" time="0.001">
+  <properties/>
+  <testcase name="test_forthree_3" classname="NumbersToWordsTest" time="0.001"/>
+>>>>>>> f8994cd808cf4d3f893434ab2134b307e5b83b71
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
